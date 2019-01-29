@@ -1,2 +1,2 @@
 # household_income
-Kaggle competition submission
+This repository contains the data and code to reproduce a submission to Kaggle competition Costa Rican Household Poverty Level Prediction(https://www.kaggle.com/c/costa-rican-household-poverty-prediction). The project was completed entirely in Python. The topics covered in the code are data visualizations, random forests and data processing techniques to deal with imbalanced training datasets.
